@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
 
 body{
-    background-color: #332e1d!important;
+    background-color: var(--fondo)!important;
     display: flex;
     flex-direction: column;
     font-family: 'Nunito', sans-serif!important;
